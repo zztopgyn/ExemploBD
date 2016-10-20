@@ -1,0 +1,6 @@
+Exemplo de acesso a BD "embedded" Derby
+acessa bco "AulaEJB" com tabela "Cliente"
+
+EXECUTAR O PROJETO
+
+
